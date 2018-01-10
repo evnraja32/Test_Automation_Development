@@ -20,3 +20,9 @@ cust2 = Customer.new("2", "Poul", "New Empire road, Khandala")
 # Call Methods
 cust1.display_details()
 cust2.display_details()
+#=======
+# To change this license header, choose License Headers in Project Properties.
+# To change this template file, choose Tools | Templates
+# and open the template in the editor.
+
+puts "Hello Ruby"
