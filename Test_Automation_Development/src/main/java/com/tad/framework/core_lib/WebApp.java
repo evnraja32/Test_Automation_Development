@@ -20,6 +20,7 @@ public class WebApp {
 		System.setProperty("webdriver.chrome.driver", "C:\\webdriver\\chromedriver.exe");
 		
 		// resources path is required
+		// object resuources must be pulled from here
 	}
 
 	public static WebApp getInstance() {
