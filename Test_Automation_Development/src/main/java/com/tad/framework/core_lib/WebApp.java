@@ -13,21 +13,21 @@ import org.openqa.selenium.remote.RemoteWebDriver;
  */
 public class WebApp {
 
-   private static final WebApp webAppInstance = new WebApp();
-   
-   
-   private WebApp() {
-      //load WebDriver
-      System.setProperty("webdriver.chrome.driver", "C:\\webdriver\\chromedriver.exe");
-   }
+	private static final WebApp webAppInstance = new WebApp();
 
-   public static WebApp getInstance() {
-      return webAppInstance;
-   }
-   
-   public static void launchApp(String browser){
-      
-   }
-           
+	private WebApp() {
+		// load WebDriver
+		System.setProperty("webdriver.chrome.driver", "C:\\webdriver\\chromedriver.exe");
+		
+		// resources path is required
+	}
+
+	public static WebApp getInstance() {
+		return webAppInstance;
+	}
+
+	public static void launchApp(String browser) {
+
+	}
 
 }
