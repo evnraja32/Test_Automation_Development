@@ -5,8 +5,6 @@
  */
 package com.tad.framework.core_lib;
 
-import org.openqa.selenium.remote.RemoteWebDriver;
-
 /**
  *
  * @author ELLURV
