@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="50" started-at="2020-09-08T14:44:50 IST" finished-at="2020-09-08T14:44:50 IST">
+  <suite started-at="2020-09-12T16:14:25 IST" name="Default suite" finished-at="2020-09-12T16:14:25 IST" duration-ms="141">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="50" started-at="2020-09-08T14:44:50 IST" finished-at="2020-09-08T14:44:50 IST">
-      <class name="practice_programs.MoveZerosToEnd">
-        <test-method status="PASS" signature="testMethod1()[pri:0, instance:practice_programs.MoveZerosToEnd@307f6b8c]" name="testMethod1" duration-ms="11" started-at="2020-09-08T14:44:50 IST" finished-at="2020-09-08T14:44:50 IST">
+    <test started-at="2020-09-12T16:14:25 IST" name="Default test" finished-at="2020-09-12T16:14:25 IST" duration-ms="141">
+      <class name="practice_programs.LIS">
+        <test-method signature="test1()[pri:0, instance:practice_programs.LIS@45d84a20]" started-at="2020-09-12T16:14:25 IST" name="test1" finished-at="2020-09-12T16:14:25 IST" duration-ms="18" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testMethod1 -->
-      </class> <!-- practice_programs.MoveZerosToEnd -->
+        </test-method> <!-- test1 -->
+      </class> <!-- practice_programs.LIS -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

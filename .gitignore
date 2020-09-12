@@ -2,6 +2,7 @@
 /bin/
 /.settings/
 /test-output/
+/test-output/*
 .classpath
 .project
 /drivers/
