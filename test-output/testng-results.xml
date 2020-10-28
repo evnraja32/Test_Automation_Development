@@ -1,17 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-09-12T16:14:25 IST" name="Default suite" finished-at="2020-09-12T16:14:25 IST" duration-ms="141">
+  <suite name="Default suite" duration-ms="44" started-at="2020-09-14T18:18:42 IST" finished-at="2020-09-14T18:18:43 IST">
     <groups>
     </groups>
-    <test started-at="2020-09-12T16:14:25 IST" name="Default test" finished-at="2020-09-12T16:14:25 IST" duration-ms="141">
-      <class name="practice_programs.LIS">
-        <test-method signature="test1()[pri:0, instance:practice_programs.LIS@45d84a20]" started-at="2020-09-12T16:14:25 IST" name="test1" finished-at="2020-09-12T16:14:25 IST" duration-ms="18" status="PASS">
+    <test name="Default test" duration-ms="44" started-at="2020-09-14T18:18:42 IST" finished-at="2020-09-14T18:18:43 IST">
+      <class name="practice_programs.CharArrayFindDuplicateCharInArray">
+        <test-method status="PASS" signature="testMethod1()[pri:0, instance:practice_programs.CharArrayFindDuplicateCharInArray@307f6b8c]" name="testMethod1" duration-ms="9" started-at="2020-09-14T18:18:43 IST" finished-at="2020-09-14T18:18:43 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- test1 -->
-      </class> <!-- practice_programs.LIS -->
+        </test-method> <!-- testMethod1 -->
+        <test-method status="PASS" signature="testMethod2()[pri:0, instance:practice_programs.CharArrayFindDuplicateCharInArray@307f6b8c]" name="testMethod2" duration-ms="1" started-at="2020-09-14T18:18:43 IST" finished-at="2020-09-14T18:18:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod2 -->
+      </class> <!-- practice_programs.CharArrayFindDuplicateCharInArray -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
